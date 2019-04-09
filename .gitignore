@@ -1,6 +1,6 @@
 #Data and dictionaries
 *.tsv
-/output
+output/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
